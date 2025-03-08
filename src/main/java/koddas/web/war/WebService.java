@@ -22,7 +22,7 @@ import com.google.gson.Gson;
  * 
  * @author Johan Holmberg
  */
-@Path("service")  // By altering the argument, you'll change the service's URL.
+@Path("service")  // By altering the argument, you'll change the service's URL
 public class WebService {
 	
 	/**
